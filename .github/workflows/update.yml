@@ -1,0 +1,45 @@
+name: Update Final Surge feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+
+    env:
+      FINAL_SURGE_URL: ${{ secrets.FINAL_SURGE_URL }}
+      PAGE_PATH: ${{ secrets.PAGE_PATH }}
+
+    steps:
+      - name: Download Final Surge calendar
+        run: |
+          mkdir -p "site/$PAGE_PATH"
+
+          curl -fsSL "$FINAL_SURGE_URL" \
+            -o "site/$PAGE_PATH/calendar.txt"
+
+          grep -q "BEGIN:VCALENDAR" \
+            "site/$PAGE_PATH/calendar.txt"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
