@@ -6,40 +6,40 @@ on:
     - cron: "17 */6 * * *"
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
-    environment:
-      name: github-pages
 
     env:
       FINAL_SURGE_URL: ${{ secrets.FINAL_SURGE_URL }}
       PAGE_PATH: ${{ secrets.PAGE_PATH }}
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Download Final Surge calendar
         run: |
-          mkdir -p "site/$PAGE_PATH"
+          mkdir -p "$PAGE_PATH"
 
           curl -fsSL "$FINAL_SURGE_URL" \
-            -o "site/$PAGE_PATH/calendar.txt"
+            -o "$PAGE_PATH/calendar.txt"
 
           grep -q "BEGIN:VCALENDAR" \
-            "site/$PAGE_PATH/calendar.txt"
+            "$PAGE_PATH/calendar.txt"
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./site
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+          git add "$PAGE_PATH/calendar.txt"
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update Final Surge feed"
+            git push
+          fi
