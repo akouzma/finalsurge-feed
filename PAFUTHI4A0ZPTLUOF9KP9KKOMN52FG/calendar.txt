@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run\n\nБаза/восстановление 75-80 мин. Думаю\, можно пр
+ осто в пульсах до 140 в среднем\, но в начале минут на 20 лучше полегче да
+ же
+DTSTAMP:20261013T095156Z
+DTSTART;VALUE=DATE:20261013
+SEQUENCE:0
+SUMMARY:Run
+UID:cd720eaa-39b0-46b5-ba94-2a41c449ca78
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run - Tempo Run\n\nРазминка 15 мин в лт\, СБУ. \n\n4х2
+ к/400м трусцы. Темп 4.30. Саму трусцу чуть ли не пешком. Допустимо сделать
+  и 5 раз\, если хорошо пойдет. \nМожно с гелями такую работку. \n\nЗаминка
+  10-15 мин
+DTSTAMP:20261013T095156Z
+DTSTART;VALUE=DATE:20261014
+SEQUENCE:0
+SUMMARY:Run - Tempo Run
+UID:374bb744-b5c1-4c93-9a37-baa59f60446a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run - Recovery Run\n\nВосстановление 50-60 мин в лт
+DTSTAMP:20261013T095156Z
+DTSTART;VALUE=DATE:20261015
+SEQUENCE:0
+SUMMARY: Run - Recovery Run: Восстановление
+UID:11e8edeb-7ada-42e2-bd52-1c1112c84fed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run\n\nБаза - 16к комфортно. Примерный диапазон 5.30-4
+ .55\, но в целом смотри по границам комфортного бега в моменте
+DTSTAMP:20261013T095156Z
+DTSTART;VALUE=DATE:20261016
+SEQUENCE:0
+SUMMARY:Run
+UID:39c121e8-4c04-46d9-9ae0-db32c6115730
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run\n\nСнова 16к\, тут уже раскладка. \n2к разминка + 
+ 8к по 4.40 + 2к легко + 2к по 4.40-4.30 + 2к заминка
+DTSTAMP:20261013T095156Z
+DTSTART;VALUE=DATE:20261017
+SEQUENCE:0
+SUMMARY:Run
+UID:1f6955f0-c506-413b-8458-49597f45a86c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run - Recovery Run\n\n18к скорее ближе к восстановлени
+ ю\, просто постоять на ногах на пульсах пониже.
+DTSTAMP:20261013T095156Z
+DTSTART;VALUE=DATE:20261018
+SEQUENCE:0
+SUMMARY:Run - Recovery Run
+UID:fcfa49d2-ce84-4622-a911-3ad8680c8450
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Race\n\nWorkout: Run - Tempo Run\n\nPlanned: 10 km
+DTSTAMP:20261013T095156Z
+DTSTART;VALUE=DATE:20261108
+SEQUENCE:0
+SUMMARY: Run - Tempo Run: Garda 10k
+UID:3e8d2176-ec6e-4e1c-baf6-bf5ab3c25c06
+END:VEVENT
+END:VCALENDAR
