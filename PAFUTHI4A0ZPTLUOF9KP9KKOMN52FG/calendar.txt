@@ -5,7 +5,7 @@ X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 DESCRIPTION:Workout: Run\n\nБаза - 16к комфортно. Примерный диапазон 5.30-4
  .55\, но в целом смотри по границам комфортного бега в моменте
-DTSTAMP:20261016T113259Z
+DTSTAMP:20261016T164503Z
 DTSTART;VALUE=DATE:20261016
 SEQUENCE:0
 SUMMARY:Run
@@ -14,7 +14,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Workout: Run\n\nСнова 16к\, тут уже раскладка. \n2к разминка + 
  8к по 4.40 + 2к легко + 2к по 4.40-4.30 + 2к заминка
-DTSTAMP:20261016T113259Z
+DTSTAMP:20261016T164503Z
 DTSTART;VALUE=DATE:20261017
 SEQUENCE:0
 SUMMARY:Run
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Workout: Run - Recovery Run\n\n18к скорее ближе к восстановлени
  ю\, просто постоять на ногах на пульсах пониже.
-DTSTAMP:20261016T113259Z
+DTSTAMP:20261016T164503Z
 DTSTART;VALUE=DATE:20261018
 SEQUENCE:0
 SUMMARY:Run - Recovery Run
@@ -31,7 +31,7 @@ UID:fcfa49d2-ce84-4622-a911-3ad8680c8450
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Race\n\nWorkout: Run - Tempo Run\n\nPlanned: 10 km
-DTSTAMP:20261016T113259Z
+DTSTAMP:20261016T164503Z
 DTSTART;VALUE=DATE:20261108
 SEQUENCE:0
 SUMMARY: Run - Tempo Run: Garda 10k
