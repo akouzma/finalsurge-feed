@@ -3,8 +3,31 @@ VERSION:2.0
 PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+DESCRIPTION:Workout: Run\n\nДавай тут перестрахуемся и сделаем шаг в сторон
+ у «поднакопить ресурс» в плане интенсивности. \nДумаю про 65-80 минут в ни
+ зкой интенсивности. Темп скорее в диапазоне 5.30-6.00. Сюда можно и серию 
+ СБУ. \nПриветствуется пересеченка/рельеф\, если будет возможность такое об
+ ыграть
+DTSTAMP:20261019T222626Z
+DTSTART;VALUE=DATE:20261020
+SEQUENCE:0
+SUMMARY:Run
+UID:1523b9fc-c2bd-41f8-9c60-eac804bbd96e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run - Long Run\n\nОбъем на 26-28к\, с питанием.\n\nПер
+ вых 5-6к полноценно легко\, по 5.30+. Остальное Чуть мягче марафонского фо
+ рмата. Предлагал бы диапазон 4.50-4.40. \nКак раз вот было и бы хорошо поп
+ итаться практически в имитации гонки каждые 30-35 мин \n
+DTSTAMP:20261019T222626Z
+DTSTART;VALUE=DATE:20261025
+SEQUENCE:0
+SUMMARY:Run - Long Run
+UID:24857570-af07-4edb-a85f-7e29c12ae94a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Race\n\nWorkout: Run - Tempo Run\n\nPlanned: 10 km
-DTSTAMP:20261019T133031Z
+DTSTAMP:20261019T222626Z
 DTSTART;VALUE=DATE:20261108
 SEQUENCE:0
 SUMMARY: Run - Tempo Run: Garda 10k
