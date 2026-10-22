@@ -3,17 +3,8 @@ VERSION:2.0
 PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-DESCRIPTION:Workout: Run\n\nРазминка 3к в лт\, СБУ \n\n4х1000/90 сек трусца
- /шаг\, темп 4.25\n1к трусцы.\nЕщё раз 4х1000/200. \n\nЗаминка 10-15 мин
-DTSTAMP:20261021T214800Z
-DTSTART;VALUE=DATE:20261021
-SEQUENCE:0
-SUMMARY:Run
-UID:928250a0-b907-4ee3-a4a5-dfbe16585384
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Workout: Run - Recovery Run\n\nДо 60 мин\, пульса пониже
-DTSTAMP:20261021T214800Z
+DTSTAMP:20261022T045836Z
 DTSTART;VALUE=DATE:20261022
 SEQUENCE:0
 SUMMARY:Run - Recovery Run
@@ -24,7 +15,7 @@ DESCRIPTION:Workout: Run - Long Run\n\nОбъем на 26-28к\, с питани
  вых 5-6к полноценно легко\, по 5.30+. Остальное Чуть мягче марафонского фо
  рмата. Предлагал бы диапазон 4.50-4.40. \nКак раз вот было и бы хорошо поп
  итаться практически в имитации гонки каждые 30-35 мин \n
-DTSTAMP:20261021T214800Z
+DTSTAMP:20261022T045836Z
 DTSTART;VALUE=DATE:20261025
 SEQUENCE:0
 SUMMARY:Run - Long Run
@@ -32,7 +23,7 @@ UID:24857570-af07-4edb-a85f-7e29c12ae94a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Race\n\nWorkout: Run - Tempo Run\n\nPlanned: 10 km
-DTSTAMP:20261021T214800Z
+DTSTAMP:20261022T045836Z
 DTSTART;VALUE=DATE:20261108
 SEQUENCE:0
 SUMMARY: Run - Tempo Run: Garda 10k
