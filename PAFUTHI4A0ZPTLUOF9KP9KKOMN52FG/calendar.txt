@@ -3,20 +3,11 @@ VERSION:2.0
 PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-DESCRIPTION:Workout: Run
-DTEND:20261023T070423Z
-DTSTAMP:20261023T212912Z
-DTSTART:20261023T060423Z
-SEQUENCE:0
-SUMMARY:Run
-UID:1b2a3ecc-0752-49ed-9e6f-412b5f90f2e4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Workout: Run - Long Run\n\nОбъем на 26-28к\, с питанием.\n\nПер
  вых 5-6к полноценно легко\, по 5.30+. Остальное Чуть мягче марафонского фо
  рмата. Предлагал бы диапазон 4.50-4.40. \nКак раз вот было и бы хорошо поп
  итаться практически в имитации гонки каждые 30-35 мин \n
-DTSTAMP:20261023T212912Z
+DTSTAMP:20261024T044458Z
 DTSTART;VALUE=DATE:20261025
 SEQUENCE:0
 SUMMARY:Run - Long Run
@@ -24,7 +15,7 @@ UID:24857570-af07-4edb-a85f-7e29c12ae94a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Race\n\nWorkout: Run - Tempo Run\n\nPlanned: 10 km
-DTSTAMP:20261023T212912Z
+DTSTAMP:20261024T044458Z
 DTSTART;VALUE=DATE:20261108
 SEQUENCE:0
 SUMMARY: Run - Tempo Run: Garda 10k
