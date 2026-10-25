@@ -8,7 +8,7 @@ DESCRIPTION:Workout: Run - Long Run\n\nОбъем на 26-28к\, с питани
  рмата. Предлагал бы диапазон 4.50-4.40. \nКак раз вот было и бы хорошо поп
  итаться практически в имитации гонки каждые 30-35 мин \n
 DTEND:20261025T095539Z
-DTSTAMP:20261025T163050Z
+DTSTAMP:20261025T205634Z
 DTSTART:20261025T085539Z
 SEQUENCE:0
 SUMMARY:Run - Long Run
@@ -16,7 +16,7 @@ UID:24857570-af07-4edb-a85f-7e29c12ae94a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Race\n\nWorkout: Run - Tempo Run\n\nPlanned: 10 km
-DTSTAMP:20261025T163050Z
+DTSTAMP:20261025T205634Z
 DTSTART;VALUE=DATE:20261108
 SEQUENCE:0
 SUMMARY: Run - Tempo Run: Garda 10k
