@@ -3,8 +3,27 @@ VERSION:2.0
 PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+DESCRIPTION:Workout: Cross Training
+DTEND:20261026T205744Z
+DTSTAMP:20261026T224434Z
+DTSTART:20261026T195744Z
+SEQUENCE:0
+SUMMARY:Cross Training
+UID:ddae8186-e298-4c71-af69-d6acad606735
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run - Recovery Run\n\nВосстановление 50-60 мин в лт\, 
+ можно для переключения мышц и ЦНС сделать СБУ и 3-5 ускорений секунд по 15
+  на технику и чуть поразмашистее. Быстро\, но легко/ свободный отдых
+DTSTAMP:20261026T224434Z
+DTSTART;VALUE=DATE:20261027
+SEQUENCE:0
+SUMMARY: Run - Recovery Run: Восстановление
+UID:406aaae4-3afb-4cdd-8702-9f92b062f8e9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Race\n\nWorkout: Run - Tempo Run\n\nPlanned: 10 km
-DTSTAMP:20261026T131357Z
+DTSTAMP:20261026T224434Z
 DTSTART;VALUE=DATE:20261108
 SEQUENCE:0
 SUMMARY: Run - Tempo Run: Garda 10k
