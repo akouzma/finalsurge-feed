@@ -7,7 +7,7 @@ DESCRIPTION:Workout: Run - Recovery Run\n\nВосстановление 50-60 м
  можно для переключения мышц и ЦНС сделать СБУ и 3-5 ускорений секунд по 15
   на технику и чуть поразмашистее. Быстро\, но легко/ свободный отдых
 DTEND:20261027T075914Z
-DTSTAMP:20261027T122200Z
+DTSTAMP:20261027T222132Z
 DTSTART:20261027T065914Z
 SEQUENCE:0
 SUMMARY: Run - Recovery Run: Восстановление
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 DESCRIPTION:Workout: Run - Fartlek\n\nРазминка 3к в лт + 600м по 4.35 или б
  лизко. \nРазминка на месте. \n\n7-8х500м в диапазоне 4.25-4.15/500м легко.
   \n\nЗаминка 2-3к
-DTSTAMP:20261027T122200Z
+DTSTAMP:20261027T222132Z
 DTSTART;VALUE=DATE:20261028
 SEQUENCE:0
 SUMMARY:Run - Fartlek
@@ -25,7 +25,7 @@ UID:0cf270fc-c8a0-4ad2-a14f-0ffed0962d1b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Workout: Run - Recovery Run\n\nДо 45 мин трусцы\, пульса пониже
-DTSTAMP:20261027T122200Z
+DTSTAMP:20261027T222132Z
 DTSTART;VALUE=DATE:20261029
 SEQUENCE:0
 SUMMARY:Run - Recovery Run
@@ -33,7 +33,7 @@ UID:20e62dc3-b57a-4ae1-8d43-aa08c6f66b38
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Race\n\nWorkout: Run - Tempo Run\n\nPlanned: 10 km
-DTSTAMP:20261027T122200Z
+DTSTAMP:20261027T222132Z
 DTSTART;VALUE=DATE:20261108
 SEQUENCE:0
 SUMMARY: Run - Tempo Run: Garda 10k
