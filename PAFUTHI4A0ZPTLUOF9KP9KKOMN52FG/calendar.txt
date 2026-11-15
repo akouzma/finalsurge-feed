@@ -2,4 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run
+DTEND:20261115T115403Z
+DTSTAMP:20261115T185554Z
+DTSTART:20261115T105403Z
+SEQUENCE:0
+SUMMARY:Run
+UID:c0bf72ee-0478-4909-b404-9765d8a98bce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Recovery/Rehab
+DTSTAMP:20261115T185554Z
+DTSTART;VALUE=DATE:20261116
+SEQUENCE:0
+SUMMARY:Recovery/Rehab
+UID:5339f5b5-dda9-476f-8349-460a7ffd15de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run - Recovery Run\n\nСкорее восстановительный бег - д
+ умаю разговор про каких буквально 55 мин. Пульса до 130. \nНо\, чисто для 
+ ЦНС и растряски мышц - СБУ и пару ускорений по 100м на технику. Ну это есл
+ и будут условия и в целом по ногам все ок
+DTSTAMP:20261115T185554Z
+DTSTART;VALUE=DATE:20261117
+SEQUENCE:0
+SUMMARY:Run - Recovery Run
+UID:f62d8063-0e82-415a-aea9-a40635aa7d04
+END:VEVENT
 END:VCALENDAR
