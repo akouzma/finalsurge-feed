@@ -4,7 +4,7 @@ PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 DESCRIPTION:Workout: Recovery/Rehab
-DTSTAMP:20261116T064251Z
+DTSTAMP:20261116T221449Z
 DTSTART;VALUE=DATE:20261116
 SEQUENCE:0
 SUMMARY:Recovery/Rehab
@@ -15,10 +15,20 @@ DESCRIPTION:Workout: Run - Recovery Run\n\nСкорее восстановите
  умаю разговор про каких буквально 55 мин. Пульса до 130. \nНо\, чисто для 
  ЦНС и растряски мышц - СБУ и пару ускорений по 100м на технику. Ну это есл
  и будут условия и в целом по ногам все ок
-DTSTAMP:20261116T064251Z
+DTSTAMP:20261116T221449Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:0
 SUMMARY:Run - Recovery Run
 UID:f62d8063-0e82-415a-aea9-a40635aa7d04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run\n\nСюда я бы поставил базу до 16к комфортно\, но е
+ сли принципиально удобнее делать работу в среду\, то в принципе можно и в 
+ среду)  А так пишу ускорения на чт
+DTSTAMP:20261116T221449Z
+DTSTART;VALUE=DATE:20261118
+SEQUENCE:0
+SUMMARY:Run
+UID:b2c8ccfb-fdac-40c5-ba04-fe44e0a02625
 END:VEVENT
 END:VCALENDAR
