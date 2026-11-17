@@ -7,8 +7,9 @@ DESCRIPTION:Workout: Run - Recovery Run\n\nСкорее восстановите
  умаю разговор про каких буквально 55 мин. Пульса до 130. \nНо\, чисто для 
  ЦНС и растряски мышц - СБУ и пару ускорений по 100м на технику. Ну это есл
  и будут условия и в целом по ногам все ок
-DTSTAMP:20261117T080302Z
-DTSTART;VALUE=DATE:20261117
+DTEND:20261117T185750Z
+DTSTAMP:20261117T210135Z
+DTSTART:20261117T175750Z
 SEQUENCE:0
 SUMMARY:Run - Recovery Run
 UID:f62d8063-0e82-415a-aea9-a40635aa7d04
@@ -17,7 +18,7 @@ BEGIN:VEVENT
 DESCRIPTION:Workout: Run\n\nСюда я бы поставил базу до 16к комфортно\, но е
  сли принципиально удобнее делать работу в среду\, то в принципе можно и в 
  среду)  А так пишу ускорения на чт
-DTSTAMP:20261117T080302Z
+DTSTAMP:20261117T210135Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 SUMMARY:Run
