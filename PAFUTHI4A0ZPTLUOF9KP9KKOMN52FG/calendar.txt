@@ -3,25 +3,48 @@ VERSION:2.0
 PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-DESCRIPTION:Workout: Run - Recovery Run\n\nСкорее восстановительный бег - д
- умаю разговор про каких буквально 55 мин. Пульса до 130. \nНо\, чисто для 
- ЦНС и растряски мышц - СБУ и пару ускорений по 100м на технику. Ну это есл
- и будут условия и в целом по ногам все ок
-DTEND:20261117T185750Z
-DTSTAMP:20261117T210135Z
-DTSTART:20261117T175750Z
-SEQUENCE:0
-SUMMARY:Run - Recovery Run
-UID:f62d8063-0e82-415a-aea9-a40635aa7d04
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Workout: Run\n\nСюда я бы поставил базу до 16к комфортно\, но е
  сли принципиально удобнее делать работу в среду\, то в принципе можно и в 
  среду)  А так пишу ускорения на чт
-DTSTAMP:20261117T210135Z
+DTSTAMP:20261118T073906Z
 DTSTART;VALUE=DATE:20261118
 SEQUENCE:0
 SUMMARY:Run
 UID:b2c8ccfb-fdac-40c5-ba04-fe44e0a02625
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run - Tempo Run\n\nРазминка 3к в лт. \nПокатай такие м
+ или 4-5х1600/200 трусцы\, где 1600 это 800 по 4.30+800 по 4.50-5.00. \nЗам
+ инка 10-15 мин
+DTSTAMP:20261118T073906Z
+DTSTART;VALUE=DATE:20261119
+SEQUENCE:0
+SUMMARY:Run - Tempo Run
+UID:32d01923-a1d6-493e-81fa-4af7f6306230
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run - Recovery Run\n\n50-60 мин трусцой
+DTSTAMP:20261118T073906Z
+DTSTART;VALUE=DATE:20261120
+SEQUENCE:0
+SUMMARY:Run - Recovery Run
+UID:c93ec1b1-1db0-4463-b37d-874fc2e138b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run\n\nБаза до 12к комфортно
+DTSTAMP:20261118T073906Z
+DTSTART;VALUE=DATE:20261121
+SEQUENCE:0
+SUMMARY:Run
+UID:25463c1a-3f47-45e2-a825-105f978ceece
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run\n\n30-32к комфортно. Думаю в целом по 5\, может фи
+ нальные 5-7к ближе к тм
+DTSTAMP:20261118T073906Z
+DTSTART;VALUE=DATE:20261122
+SEQUENCE:0
+SUMMARY:Run
+UID:ea888511-ad61-48ea-830b-f6d4518ed540
 END:VEVENT
 END:VCALENDAR
