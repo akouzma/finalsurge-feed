@@ -2,4 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
 X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+DESCRIPTION:Workout: Run - Recovery Run\n\n40-45 мин трусца. Темп 5.30 и ле
+ гче. Можно побольше до/после бега помяться\, тонус на мышцы статикой\,  во
+ бщем зарядку поделать
+DTSTAMP:20261123T235934Z
+DTSTART;VALUE=DATE:20261124
+SEQUENCE:0
+SUMMARY:Run - Recovery Run
+UID:9626e9ff-1ef5-4247-9fe5-abbfe339384e
+END:VEVENT
 END:VCALENDAR
