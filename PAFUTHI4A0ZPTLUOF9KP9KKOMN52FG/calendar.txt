@@ -3,21 +3,10 @@ VERSION:2.0
 PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-DESCRIPTION:Workout: Run - Fartlek\n\nВстряхнуться после лонга. Относительн
- о интуитивная переменка:\nРазминка 3к в лт\, СБУ по вдохновению. \nСерия 4
- х2 мин активно/1 мин трусца. Усилия/темп около 4.30. \n3 мин трусца. \nСер
- ия 5х60 сек/90 сек трусцы\, темп ближе к 4.10-4.00. \nЗаминка 10-15 мин
-DTEND:20261125T181141Z
-DTSTAMP:20261125T214732Z
-DTSTART:20261125T171141Z
-SEQUENCE:0
-SUMMARY:Run - Fartlek
-UID:c0eaf61f-4f6f-412b-9bfb-4299044c6684
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Workout: Run - Recovery Run\n\nВосстановление до 50 мин
-DTSTAMP:20261125T214732Z
-DTSTART;VALUE=DATE:20261126
+DTEND:20261126T074341Z
+DTSTAMP:20261126T083150Z
+DTSTART:20261126T064341Z
 SEQUENCE:0
 SUMMARY:Run - Recovery Run
 UID:9f0b9b46-0d3c-4fdb-981d-ece8f7693511
@@ -25,7 +14,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Workout: Run - Long Run\n\nБаза до 14к\, в выходные если получи
  тся\, то сбегай что-нибудь до часа в лт.
-DTSTAMP:20261125T214732Z
+DTSTAMP:20261126T083150Z
 DTSTART;VALUE=DATE:20261127
 SEQUENCE:0
 SUMMARY:Run - Long Run
